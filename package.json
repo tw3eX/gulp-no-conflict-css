@@ -1,6 +1,6 @@
 {
-  "name": "gulp-prefix-css",
-  "version": "0.0.4",
+  "name": "gulp-no-conflict-css",
+  "version": "0.0.1",
   "author": {
     "name": "Valeriy Zakharov"
   },
